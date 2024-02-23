@@ -1,0 +1,8 @@
+Preston Willis
+I first used the vi command to create and open a new file. After this I put the configurations into the file and used shift +; and wq to save and quit the file. After that I checked the file using vim .vimrc. After that I used cd commands to to change the name of the file and copy it to my desktop. I then used the vim command to edit the file and saved and quit.
+syntax on
+set ruler
+set autoindent
+set number
+set ignorecase
+color elflord
